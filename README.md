@@ -1,14 +1,3 @@
-
-
-# 링크 테스트
-## [이준식](Docs/작업내용/이준식.md)
-## [최태욱](Docs/작업내용/최태욱.md)
-## [양한아_OutGameSystem](Docs/작업내용/양한아_OutGameSystem.md)
-## [양한아_SkillSystem](Docs/작업내용/양한아_SkillSystem.md)
-## [장민재](Docs/작업내용/장민재.md)
-## [서정원](Docs/작업내용/서정원.md)
-## [조성민](Docs/작업내용/조성민.md)
-
 # 🥷🆚👮‍♂️ RoBo Cops & Robbers
 
 > 3인칭 시점에서 펼쳐지는 **비대칭 PvP 멀티플레이 게임**  
